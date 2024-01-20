@@ -1,2 +1,2 @@
 # Shell
-Crating my own shell in c.
+Creating my own shell in c.
